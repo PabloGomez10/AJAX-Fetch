@@ -1,0 +1,34 @@
+
+
+[{
+    "nombre": "RAM",
+    "precio": 6000,
+    "id": 1,
+    "imagenes": "imagenes/ram.jpg"
+  },
+  {
+    "nombre": "Mother",
+    "precio": 26000,
+    "id": 2,
+    "imagenes": "imagenes/motherg.jpg"
+  },
+  {
+    "nombre": "Intel® Core™ i3",
+    "precio": 34000,
+    "id": 3,
+    "imagenes": "imagenes/i3p.jpg"
+  },
+  {
+    "nombre": "Intel® Core™ i5",
+    "precio": 65000,
+    "id": 4,
+    "imagenes": "imagenes/i5.jpg"
+  },
+  {
+    "nombre": "AMD Ryzen 5",
+    "precio": 560,
+    "id": 5,
+    "imagenes": "imagenes/ryzen 5.jpg"
+  }
+
+]
